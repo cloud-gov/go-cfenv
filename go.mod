@@ -1,6 +1,6 @@
-module github.com/cloudfoundry-community/go-cfenv
+module github.com/cloud-gov/go-cfenv
 
-go 1.11
+go 1.21
 
 require (
 	github.com/joefitzgerald/rainbow-reporter v0.1.0
