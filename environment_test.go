@@ -3,7 +3,7 @@ package cfenv_test
 import (
 	"testing"
 
-	"github.com/cloudfoundry-community/go-cfenv"
+	"github.com/cloud-gov/go-cfenv"
 	. "github.com/onsi/gomega"
 	"github.com/sclevine/spec"
 )
