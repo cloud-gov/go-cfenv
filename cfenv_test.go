@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/cloudfoundry-community/go-cfenv"
+	"github.com/cloud-gov/go-cfenv"
 	"github.com/mitchellh/mapstructure"
 	. "github.com/onsi/gomega"
 	"github.com/sclevine/spec"
