@@ -4,14 +4,14 @@ go 1.21
 
 require (
 	github.com/joefitzgerald/rainbow-reporter v0.1.0
-	github.com/mitchellh/mapstructure v1.1.2
-	github.com/onsi/gomega v1.5.0
-	github.com/sclevine/spec v1.2.0
+	github.com/mitchellh/mapstructure v1.5.0
+	github.com/onsi/gomega v1.33.1
+	github.com/sclevine/spec v1.4.0
 )
 
 require (
-	github.com/onsi/ginkgo v1.8.0 // indirect
-	golang.org/x/net v0.23.0 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
+	golang.org/x/net v0.24.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
-	gopkg.in/yaml.v2 v2.2.1 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
