@@ -1,6 +1,7 @@
 module github.com/cloud-gov/go-cfenv
 
 go 1.21
+toolchain go1.23.7
 
 require (
 	github.com/joefitzgerald/rainbow-reporter v0.1.0
@@ -11,7 +12,7 @@ require (
 
 require (
 	github.com/google/go-cmp v0.6.0 // indirect
-	golang.org/x/net v0.24.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
